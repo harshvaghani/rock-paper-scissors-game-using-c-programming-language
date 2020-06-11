@@ -90,10 +90,10 @@ int main2()
     }
     else if (compscore == 1)
     {
-        printf("COMPUTER won\n");
+        printf("Compouter won\n");
     }
     else
     {
-        printf("DRAW\n");
+        printf("Draw\n");
     }
 }
