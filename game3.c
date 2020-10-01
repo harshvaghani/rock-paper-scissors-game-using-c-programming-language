@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <conio.h>
 // int generaterandomnum()
 // {
 //     srand(time(NULL));
